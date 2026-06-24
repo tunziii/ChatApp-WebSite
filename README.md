@@ -5,5 +5,5 @@ The App is in production, later a Website will also be create, which can also co
 - Simple message exchanges using UDP
 - Very basic UI(for now)
 
-To do: Database, UI, Message encryption, image and video sharing, WebSite, Bug fixes
+To do: Database, UI, Message encryption, image and video sharing, WebSite, Bug fixes, Login/Register
 -------------------------------------
